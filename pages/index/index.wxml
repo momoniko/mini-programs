@@ -1,0 +1,13 @@
+
+<view>
+  <view class="title">
+    <image src="https://s1.ax1x.com/2020/10/11/0gKrTI.jpg"></image>
+    <text class="trod1">游戏说明：</text>
+    <text class="trod2">点击开始游戏后，
+      滑动任意方向及小蛇运动</text>
+  </view>
+  <navigator url="/pages/snake/snake" open-type="switchTab" >
+    <button>开始游戏</button>
+  </navigator>
+
+</view>

@@ -1,0 +1,22 @@
+page{
+  background-color: rgb(250, 235, 101);
+}
+image{
+  margin: 120rpx 40rpx 10rpx 40rpx;
+  left: 0rpx;
+  width: 90vw;
+  border-radius: 20%;
+}
+text{
+  color: rgb(238, 65, 12);
+  display: flex;
+  justify-content: space-between;
+  margin: 10rpx;
+}
+button{
+  margin: 0;
+  width: 50%;
+  background-color: rgb(247, 188, 80);
+  left: 180rpx;
+ 
+}
